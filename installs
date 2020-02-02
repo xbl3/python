@@ -1,0 +1,3 @@
+pip3 install spotdl
+pip3 install google_images_download
+pip3 install pyvmomi
